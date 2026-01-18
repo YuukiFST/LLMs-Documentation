@@ -464,7 +464,3 @@ As language models continue to scale, architectures like DeepSeekMoE that fundam
 - Switch Transformer (Fedus et al., 2021)
 - LLaMA / LLaMA2 (Touvron et al., 2023)
 - DeepSeek LLM (DeepSeek-AI, 2024)
-
----
-
-*This technical analysis was prepared for researchers and practitioners working on large-scale language model development and deployment. For questions or discussions, refer to the original paper and community discussions.*
