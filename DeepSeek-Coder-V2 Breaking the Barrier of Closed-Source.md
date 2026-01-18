@@ -365,22 +365,15 @@ For developers and organizations seeking state-of-the-art code assistance withou
 
 ---
 
-**Citation:**
-```bibtex
-@article{zhu2024deepseekcoder,
-  title={DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence},
-  author={Zhu, Qihao and Guo, Daya and Shao, Zhihong and Yang, Dejian and Wang, Peiyi and 
-          Xu, Runxin and Wu, Y and Li, Yukun and Gao, Huazuo and Ma, Shirong and 
-          Zeng, Wangding and Bi, Xiao and Gu, Zihui and Xu, Hanwei and Dai, Damai and 
-          Dong, Kai and Zhang, Liyue and Piao, Yishi and Gou, Zhibin and Xie, Zhenda and 
-          Hao, Zhewen and Wang, Bingxuan and Song, Junxiao and Chen, Deli and Xie, Xin and 
-          Guan, Kang and You, Yuxiang and Liu, Aixin and Du, Qiushi and Gao, Wenjun and 
-          Lu, Xuan and Chen, Qinyu and Wang, Yaohui and Deng, Chengqi and Li, Jiashi and 
-          Zhao, Chenggang and Ruan, Chong and Luo, Fuli and Liang, Wenfeng},
-  journal={arXiv preprint arXiv:2406.11931},
-  year={2024},
-  month={June},
-  organization={DeepSeek-AI},
-  url={https://github.com/deepseek-ai/DeepSeek-Coder-V2}
-}
-```
+## References & Resources
+
+- **Paper**: Zhu, Q., Guo, D., Shao, Z., et al. (2024). DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence. arXiv:2406.11931
+- **Code**: https://github.com/deepseek-ai/DeepSeek-Coder-V2
+- **Organization**: DeepSeek-AI (https://www.deepseek.com)
+- **Base Model**: DeepSeek-V2 (DeepSeek-AI, 2024)
+- **Related Work**: 
+  - DeepSeek-Coder (Guo et al., 2024)
+  - DeepSeekMath (Shao et al., 2024)
+  - StarCoder2 (Lozhkov et al., 2024)
+  - CodeLlama (Roziere et al., 2023)
+- **Benchmarks**: HumanEval (Chen et al., 2021), MBPP (Austin et al., 2021), LiveCodeBench (Jain et al., 2024), SWE-Bench (Jimenez et al., 2023)
